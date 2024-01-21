@@ -1,0 +1,5 @@
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz4/obj/Debug/net6.0/dz4.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz4/obj/Debug/net6.0/dz4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz4/obj/Debug/net6.0/dz4.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz4/obj/Debug/net6.0/dz4.AssemblyInfo.cs
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz4/obj/Debug/net6.0/dz4.csproj.CoreCompileInputs.cache
