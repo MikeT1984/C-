@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/bin/Debug/net6.0/Tsk1
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/bin/Debug/net6.0/Tsk1.deps.json
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/bin/Debug/net6.0/Tsk1.runtimeconfig.json
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/bin/Debug/net6.0/Tsk1.dll
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/bin/Debug/net6.0/Tsk1.pdb
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.AssemblyInfo.cs
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.dll
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/refint/Tsk1.dll
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.pdb
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/Tsk1.genruntimeconfig.cache
+/Users/mac/Desktop/Study/Python/С#/HomeWork/dz7/Tsk1/obj/Debug/net6.0/ref/Tsk1.dll
